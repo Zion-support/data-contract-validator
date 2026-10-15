@@ -1,11 +1,10 @@
 # 🌐 Zion AI App Network
 
-Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
-
+- 🌐 Live page: https://ziontechgroup.com/data-contract-validator/
+- 🗂️ Hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored D–E: https://ziontechgroup.com/zion-app-network/app/network-restored-d-e-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Discovery: https://ziontechgroup.com/discovery/
 - 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/data-contract-validator/
-- 🔗 Related: [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/) · [ETL Pipeline Monitor](https://ziontechgroup.com/etl-pipeline-monitor/) · [Discovery](https://ziontechgroup.com/discovery/)
 
-© 2026 Zion Tech Group.
+Inspect the README for documented status; publication is not proof of AI functionality.
